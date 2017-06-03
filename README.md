@@ -1,2 +1,2 @@
 # hello-world
-toy repository or learning.
+toy repository for learning.
